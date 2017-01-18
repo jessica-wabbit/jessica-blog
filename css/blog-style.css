@@ -1,0 +1,17 @@
+.about {
+  font-style: italic;
+  color: magenta;
+}
+
+.oddpost{
+  color: blue;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.evenpost{
+  color:black;
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 14px;
+}
